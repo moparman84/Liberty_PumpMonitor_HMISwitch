@@ -1,0 +1,26 @@
+{
+    "users": {
+        "admin": {
+            "password_hash": "75e2c7cb905ce8d7336f2f20126dc2ba3068b989fba39f4260142ba7ba005814",
+            "role": "admin",
+            "active": true,
+            "created_date": "2025-01-01"
+        },
+        "jerimey": {
+            "password_hash": "791ca7e56227fc20b4c1eebfd77eac54e93ecadb82b734bd60a097857a929d17",
+            "role": "admin",
+            "active": true,
+            "created_date": "2025-09-19"
+        },
+        "123": {
+            "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+            "role": "admin",
+            "active": true,
+            "created_date": "2025-10-21"
+        }
+    },
+    "maintenance_password": "75e2c7cb905ce8d7336f2f20126dc2ba3068b989fba39f4260142ba7ba005814",
+    "ip_setup_password": "75e2c7cb905ce8d7336f2f20126dc2ba3068b989fba39f4260142ba7ba005814",
+    "master_maintenance_mode": true,
+    "turbo_temp_threshold": 1040
+}

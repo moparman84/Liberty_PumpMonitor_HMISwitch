@@ -1,0 +1,611 @@
+[
+    {
+        "timestamp": "2025-08-30 14:08:30",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Log Cleared",
+        "details": "Activity log cleared by administrator"
+    },
+    {
+        "timestamp": "2025-08-30 14:08:54",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "User Deleted",
+        "details": "Deleted user: Jason"
+    },
+    {
+        "timestamp": "2025-08-30 14:08:57",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "User Deleted",
+        "details": "Deleted user: jerimey"
+    },
+    {
+        "timestamp": "2025-08-30 15:40:24",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User Jerimey logged in successfully"
+    },
+    {
+        "timestamp": "2025-08-30 15:42:06",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-08-30 15:42:13",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Turbo Threshold Changed",
+        "details": "Changed from 1050\u00b0F to 1045\u00b0F"
+    },
+    {
+        "timestamp": "2025-08-30 15:42:15",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls activated"
+    },
+    {
+        "timestamp": "2025-08-30 15:44:28",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-08-31 05:31:14",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-08-31 05:32:15",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "User Created",
+        "details": "Created new user: Jason with role: tech"
+    },
+    {
+        "timestamp": "2025-08-31 05:49:42",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-08-31 05:49:44",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls activated"
+    },
+    {
+        "timestamp": "2025-08-31 06:19:16",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-08-31 06:19:21",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls activated"
+    },
+    {
+        "timestamp": "2025-08-31 06:19:28",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Turbo Threshold Changed",
+        "details": "Changed from 1050\u00b0F to 1044\u00b0F"
+    },
+    {
+        "timestamp": "2025-08-31 06:19:54",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "User Deleted",
+        "details": "Deleted user: Jason"
+    },
+    {
+        "timestamp": "2025-08-31 07:02:40",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-08-31 07:02:42",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls activated"
+    },
+    {
+        "timestamp": "2025-08-31 07:06:11",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-08-31 07:06:14",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls activated"
+    },
+    {
+        "timestamp": "2025-08-31 11:28:18",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-08-31 11:28:20",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls activated"
+    },
+    {
+        "timestamp": "2025-08-31 11:28:30",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Turbo Threshold Changed",
+        "details": "Changed from 1050\u00b0F to 1044\u00b0F"
+    },
+    {
+        "timestamp": "2025-08-31 16:44:05",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-08-31 16:44:26",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls activated"
+    },
+    {
+        "timestamp": "2025-08-31 16:45:18",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls deactivated from monitor page"
+    },
+    {
+        "timestamp": "2025-09-01 05:43:46",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-01 05:45:32",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls activated"
+    },
+    {
+        "timestamp": "2025-09-01 07:54:50",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-01 07:54:51",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls activated"
+    },
+    {
+        "timestamp": "2025-09-01 12:03:39",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-01 12:03:44",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls activated"
+    },
+    {
+        "timestamp": "2025-09-01 13:47:36",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-01 13:47:53",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Master Maintenance Mode",
+        "details": "Master maintenance mode activated by Jerimey"
+    },
+    {
+        "timestamp": "2025-09-01 13:50:18",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-01 13:50:45",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Master Maintenance Mode",
+        "details": "Master maintenance mode activated by Jerimey"
+    },
+    {
+        "timestamp": "2025-09-01 13:54:24",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-01 13:54:38",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Master Maintenance Mode",
+        "details": "Master maintenance mode activated by Jerimey"
+    },
+    {
+        "timestamp": "2025-09-01 13:54:50",
+        "user": "Jerimey",
+        "role": "admin",
+        "action": "Turbo Threshold Changed",
+        "details": "Changed from 1050\u00b0F to 1044\u00b0F"
+    },
+    {
+        "timestamp": "2025-09-01 13:56:00",
+        "user": "Unknown",
+        "role": "Unknown",
+        "action": "SP Controls",
+        "details": "SP Controls deactivated from monitor page"
+    },
+    {
+        "timestamp": "2025-09-19 18:26:23",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-19 18:26:32",
+        "user": "admin",
+        "role": "admin",
+        "action": "Turbo Threshold Changed",
+        "details": "Changed from 1050\u00b0F to 1044\u00b0F"
+    },
+    {
+        "timestamp": "2025-09-19 18:27:08",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-19 18:27:22",
+        "user": "admin",
+        "role": "admin",
+        "action": "Master Maintenance Mode",
+        "details": "Master maintenance mode activated by admin"
+    },
+    {
+        "timestamp": "2025-09-19 18:27:44",
+        "user": "admin",
+        "role": "admin",
+        "action": "User Created",
+        "details": "Created new user: jerimey with role: admin"
+    },
+    {
+        "timestamp": "2025-09-19 18:47:46",
+        "user": "jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-19 18:48:04",
+        "user": "jerimey",
+        "role": "admin",
+        "action": "Turbo Threshold Changed",
+        "details": "Changed from 1050\u00b0F to 1030\u00b0F"
+    },
+    {
+        "timestamp": "2025-09-19 18:48:39",
+        "user": "jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-19 18:49:47",
+        "user": "jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-19 18:49:54",
+        "user": "jerimey",
+        "role": "admin",
+        "action": "Turbo Threshold Changed",
+        "details": "Changed from 1050\u00b0F to 1030\u00b0F"
+    },
+    {
+        "timestamp": "2025-09-19 18:50:18",
+        "user": "jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-19 18:54:57",
+        "user": "jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-19 18:56:39",
+        "user": "jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-19 18:56:46",
+        "user": "jerimey",
+        "role": "admin",
+        "action": "Turbo Threshold Changed",
+        "details": "Changed from 1030\u00b0F to 1044\u00b0F"
+    },
+    {
+        "timestamp": "2025-09-19 19:17:23",
+        "user": "jerimey",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-19 19:17:30",
+        "user": "jerimey",
+        "role": "admin",
+        "action": "Turbo Threshold Changed",
+        "details": "Changed from 1044\u00b0F to 1038\u00b0F"
+    },
+    {
+        "timestamp": "2025-09-24 16:29:11",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-24 16:30:00",
+        "user": "admin",
+        "role": "admin",
+        "action": "Master Maintenance Mode",
+        "details": "Master maintenance mode deactivated by admin"
+    },
+    {
+        "timestamp": "2025-09-24 16:30:17",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-24 16:30:19",
+        "user": "admin",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls activated"
+    },
+    {
+        "timestamp": "2025-09-24 16:30:28",
+        "user": "admin",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls deactivated from monitor page"
+    },
+    {
+        "timestamp": "2025-09-25 21:47:59",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-25 21:53:42",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-26 00:47:33",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-26 01:53:09",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-09-26 02:01:23",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-10-18 16:39:06",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-10-19 11:01:10",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-10-19 11:01:29",
+        "user": "admin",
+        "role": "admin",
+        "action": "Master Maintenance Mode",
+        "details": "Master maintenance mode activated by admin"
+    },
+    {
+        "timestamp": "2025-10-19 13:29:55",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-10-19 13:30:03",
+        "user": "admin",
+        "role": "admin",
+        "action": "Turbo Threshold Changed",
+        "details": "Changed from 1038\u00b0F to 1040\u00b0F"
+    },
+    {
+        "timestamp": "2025-10-19 13:32:51",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-10-19 13:34:49",
+        "user": "admin",
+        "role": "admin",
+        "action": "Turbo Threshold Changed",
+        "details": "Changed from 1040\u00b0F to 1040\u00b0F"
+    },
+    {
+        "timestamp": "2025-10-19 14:26:59",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-10-19 14:42:58",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-10-20 15:49:46",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-10-21 06:06:00",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-10-21 06:06:35",
+        "user": "admin",
+        "role": "admin",
+        "action": "User Created",
+        "details": "Created new user: 123 with role: admin"
+    },
+    {
+        "timestamp": "2025-10-21 06:06:41",
+        "user": "admin",
+        "role": "admin",
+        "action": "Master Maintenance Mode",
+        "details": "Master maintenance mode deactivated by admin"
+    },
+    {
+        "timestamp": "2025-10-21 06:07:05",
+        "user": "123",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-10-21 06:07:07",
+        "user": "123",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls activated"
+    },
+    {
+        "timestamp": "2025-10-21 06:07:12",
+        "user": "123",
+        "role": "admin",
+        "action": "SP Controls",
+        "details": "SP Controls deactivated from monitor page"
+    },
+    {
+        "timestamp": "2025-10-21 06:37:32",
+        "user": "123",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-10-21 06:40:01",
+        "user": "123",
+        "role": "admin",
+        "action": "Master Maintenance Mode",
+        "details": "Master maintenance mode activated by 123"
+    },
+    {
+        "timestamp": "2025-10-21 06:46:06",
+        "user": "123",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into IP setup page"
+    },
+    {
+        "timestamp": "2025-10-21 07:38:30",
+        "user": "123",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    },
+    {
+        "timestamp": "2025-10-22 07:31:13",
+        "user": "admin",
+        "role": "admin",
+        "action": "Login",
+        "details": "User logged into maintenance page"
+    }
+]
